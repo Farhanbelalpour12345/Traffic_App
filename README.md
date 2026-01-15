@@ -1,17 +1,33 @@
-# traffic_app
+🚦 Traffic App – Application Mobile Flutter
+🎓 Projet de fin d’études – Licence en Génie Logiciel
 
-Teraffic App For My Final Project
+Traffic App est une application mobile développée avec Flutter, réalisée dans le cadre du projet de fin d’études de Licence en Génie Logiciel.
+L’objectif de ce projet était de concevoir une application mobile fonctionnelle, modulaire et évolutive, en appliquant les principes de bonne architecture logicielle et d’expérience utilisateur.
 
-## Getting Started
+📱 Fonctionnalités
 
-This project is a starting point for a Flutter application.
+🔐 Système d’authentification utilisateur
 
-A few resources to get you started if this is your first Flutter project:
+🧭 Navigation via Bottom Navigation Bar
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+📂 Menu Drawer pour un accès rapide aux sections
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Traffic_App
+🗂 Gestion des données via une couche Services
+
+🎨 Composants UI réutilisables
+
+ℹ️ Page « À propos »
+
+🧱 Architecture modulaire et maintenable
+
+🛠 Technologies utilisées
+
+Framework : Flutter (Dart)
+
+Architecture : Modulaire / en couches (Layered Architecture)
+
+UI : Material Design
+
+Gestion d’état : Widgets Stateful & Stateless
+
+Accès aux données : Couche Service personnalisée
