@@ -59,9 +59,11 @@ lib/
 
 
 ##
-. git clone https://github.com/votre-username/Traffic_App.git
-. flutter pub get
-. flutter run
+git clone https://github.com/votre-username/Traffic_App.git
+
+flutter pub get
+
+flutter run
 
 ---
 
@@ -77,6 +79,8 @@ Ce projet a été réalisé dans le cadre du projet de fin d’études de Licenc
 
 ## 👤 Auteur
 
-. Mohammad Belalpour
-. Licence en Génie Logiciel
-. Développement Mobile – Flutter
+Mohammad Belalpour
+
+Licence en Génie Logiciel
+
+Développement Mobile – Flutter
