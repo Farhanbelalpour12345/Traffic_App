@@ -54,6 +54,7 @@ lib/
 │   └── body.dart
 │
 └── helper/
+```
 
 
 
@@ -62,17 +63,17 @@ git clone https://github.com/votre-username/Traffic_App.git
 flutter pub get
 flutter run
 
-
+---
 
 ## 🎯 Contexte académique
 
 Ce projet a été réalisé dans le cadre du projet de fin d’études de Licence en Génie Logiciel, avec un accent particulier sur :
-Les principes de clean code
-L’architecture logicielle
-Le développement mobile avec Flutter
-L’expérience utilisateur (UI/UX)
+- Les principes de clean code
+- L’architecture logicielle
+- Le développement mobile avec Flutter
+- L’expérience utilisateur (UI/UX)
 
-
+---
 
 ## 👤 Auteur
 
